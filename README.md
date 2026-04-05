@@ -1,4 +1,4 @@
-# Hi, I'm Shadow 👋
+# Hi, I'm Shadow-Coder 👋
 
 🔭 Data Scientist & ML Engineer passionate about turning messy data into meaningful insights.
 
@@ -20,3 +20,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+
+## 📈 GitHub Stats
+
+![Shadow-Coder-888's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow-Coder-888&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Coder-888&layout=compact&hide_border=true)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto: pcofficial63@gmail.com)
